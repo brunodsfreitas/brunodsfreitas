@@ -9,7 +9,7 @@
 
 - 📧 Meu e-mail para contato **brunods.freitas@hotmail.com**
 
-- 🏕️🏍️ Nas horas vagas, gosto de jogar viajar de moto
+- 🏕️🏍️ Nas horas vagas, gosto de jogar videogame / viajar de moto
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 <a href="https://www.linkedin.com/in/brunodsfreitas/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
