@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Sou formado em Sistemas de Informação em 2013 pela Uniesp
   
-- 💻 Mais de 12 anos de experiências em Suporte, Desenvolvimento PHP/JS, Infraestrutura e Gestão de TI
+- 💻 Mais de 13 anos de experiência em Suporte, Desenvolvimento PHP/JS, Infraestrutura e Gestão de TI
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
